@@ -25,7 +25,7 @@ Photographer 📸 | Currently learning Frontend 💻 | Illustrator ✏️
 
 <img align="right" alt="GIF" height="130px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnc5NW5kNXEwdTJwenczaHVkMzBsbHJraDk3ZWtkZmR0bDAyYmkxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cOfwtFobGCLJBU3DNn/giphy.gif">
 
-[![Spotify](https://novatorem-bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31lqpc6e2x73ugw3gan7nagoda7a)
+[![Spotify](https://novatorem-bgstatic.vercel.app/api/spotify)](https://open.spotify.com/playlist/3HagG1gHYwtQpY8V4q3W94)
 
 
 
